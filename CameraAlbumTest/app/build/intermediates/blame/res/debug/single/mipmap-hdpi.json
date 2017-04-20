@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\androidproject\\CameraAlbumTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\androidproject\\CameraAlbumTest\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\androidproject\\CameraAlbumTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\androidproject\\CameraAlbumTest\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

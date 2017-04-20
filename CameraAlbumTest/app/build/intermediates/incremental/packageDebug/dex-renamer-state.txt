@@ -1,0 +1,7 @@
+#Wed Apr 19 16:02:01 CST 2017
+base.0=D\:\\androidproject\\CameraAlbumTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3b6b0b2f954d99c425a785044d2da72f43db1f71
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\androidproject\\CameraAlbumTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d17eb8e1754da887f8b888ff17fafb6de576012c\\classes.dex
+base.1=D\:\\androidproject\\CameraAlbumTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d17eb8e1754da887f8b888ff17fafb6de576012c
+file.0=D\:\\androidproject\\CameraAlbumTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3b6b0b2f954d99c425a785044d2da72f43db1f71\\classes.dex

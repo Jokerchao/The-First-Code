@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\androidproject\\CameraAlbumTest\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\70bdde870636d5407458ad5bee40c53584a327ee\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\androidproject\\CameraAlbumTest\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\70bdde870636d5407458ad5bee40c53584a327ee\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\androidproject\\CameraAlbumTest\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\70bdde870636d5407458ad5bee40c53584a327ee\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\androidproject\\CameraAlbumTest\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\70bdde870636d5407458ad5bee40c53584a327ee\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
